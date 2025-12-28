@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(gryla)/layout,_N_T_/(items)/items/(gryla)/gryla/layout,_N_T_/(items)/items/(gryla)/gryla/(slippers)/layout,_N_T_/(items)/items/(gryla)/gryla/(slippers)/slippers/layout,_N_T_/(items)/items/(gryla)/gryla/(slippers)/slippers/page,_N_T_/items/gryla/slippers"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGdyeWxhKQ/gryla/!KHNsaXBwZXJzKQ/slippers/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGdyeWxhKQ/gryla/!KHNsaXBwZXJzKQ/slippers",
+    "/!KGl0ZW1zKQ/items/!KGdyeWxhKQ/gryla/!KHNsaXBwZXJzKQ",
+    "/!KGl0ZW1zKQ/items/!KGdyeWxhKQ/gryla",
+    "/!KGl0ZW1zKQ/items/!KGdyeWxhKQ",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

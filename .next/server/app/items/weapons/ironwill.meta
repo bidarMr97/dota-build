@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(weapons)/layout,_N_T_/(items)/items/(weapons)/weapons/layout,_N_T_/(items)/items/(weapons)/weapons/(ironwill)/layout,_N_T_/(items)/items/(weapons)/weapons/(ironwill)/ironwill/layout,_N_T_/(items)/items/(weapons)/weapons/(ironwill)/ironwill/page,_N_T_/items/weapons/ironwill"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHdlYXBvbnMp/weapons/!KGlyb253aWxsKQ/ironwill/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHdlYXBvbnMp/weapons/!KGlyb253aWxsKQ/ironwill",
+    "/!KGl0ZW1zKQ/items/!KHdlYXBvbnMp/weapons/!KGlyb253aWxsKQ",
+    "/!KGl0ZW1zKQ/items/!KHdlYXBvbnMp/weapons",
+    "/!KGl0ZW1zKQ/items/!KHdlYXBvbnMp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

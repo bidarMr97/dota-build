@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(wonders)/layout,_N_T_/(items)/items/(wonders)/wonders/layout,_N_T_/(items)/items/(wonders)/wonders/(tp)/layout,_N_T_/(items)/items/(wonders)/wonders/(tp)/tp/layout,_N_T_/(items)/items/(wonders)/wonders/(tp)/tp/page,_N_T_/items/wonders/tp"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders/!KHRwKQ/tp/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders/!KHRwKQ/tp",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders/!KHRwKQ",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

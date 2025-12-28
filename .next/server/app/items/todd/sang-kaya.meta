@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(todd)/layout,_N_T_/(items)/items/(todd)/todd/layout,_N_T_/(items)/items/(todd)/todd/(sang-kaya)/layout,_N_T_/(items)/items/(todd)/todd/(sang-kaya)/sang-kaya/layout,_N_T_/(items)/items/(todd)/todd/(sang-kaya)/sang-kaya/page,_N_T_/items/todd/sang-kaya"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KHNhbmcta2F5YSk/sang-kaya/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KHNhbmcta2F5YSk/sang-kaya",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KHNhbmcta2F5YSk",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

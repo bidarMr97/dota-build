@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(market)/layout,_N_T_/(items)/items/(market)/market/layout,_N_T_/(items)/items/(market)/market/page,_N_T_/items/market"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

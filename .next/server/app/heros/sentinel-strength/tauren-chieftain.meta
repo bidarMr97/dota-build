@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(sentinel-strength)/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/(tauren-chieftain)/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/(tauren-chieftain)/tauren-chieftain/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/(tauren-chieftain)/tauren-chieftain/page,_N_T_/heros/sentinel-strength/tauren-chieftain"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength/!KHRhdXJlbi1jaGllZnRhaW4p/tauren-chieftain/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength/!KHRhdXJlbi1jaGllZnRhaW4p/tauren-chieftain",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength/!KHRhdXJlbi1jaGllZnRhaW4p",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

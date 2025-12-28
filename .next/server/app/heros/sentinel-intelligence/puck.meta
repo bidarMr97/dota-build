@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(sentinel-intelligence)/layout,_N_T_/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/layout,_N_T_/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(puck)/layout,_N_T_/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(puck)/puck/layout,_N_T_/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(puck)/puck/page,_N_T_/heros/sentinel-intelligence/puck"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWludGVsbGlnZW5jZSk/sentinel-intelligence/!KHB1Y2sp/puck/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWludGVsbGlnZW5jZSk/sentinel-intelligence/!KHB1Y2sp/puck",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWludGVsbGlnZW5jZSk/sentinel-intelligence/!KHB1Y2sp",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWludGVsbGlnZW5jZSk/sentinel-intelligence",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWludGVsbGlnZW5jZSk",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

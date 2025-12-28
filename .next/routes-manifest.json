@@ -1,0 +1,1844 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/heros",
+      "regex": "^/heros(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility",
+      "regex": "^/heros/scourge\\-agility(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/arc",
+      "regex": "^/heros/scourge\\-agility/arc(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/arc(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/blood",
+      "regex": "^/heros/scourge\\-agility/blood(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/blood(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/bone",
+      "regex": "^/heros/scourge\\-agility/bone(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/bone(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/brood",
+      "regex": "^/heros/scourge\\-agility/brood(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/brood(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/medusa",
+      "regex": "^/heros/scourge\\-agility/medusa(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/medusa(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/meepo",
+      "regex": "^/heros/scourge\\-agility/meepo(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/meepo(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/mortred",
+      "regex": "^/heros/scourge\\-agility/mortred(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/mortred(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/nerubian",
+      "regex": "^/heros/scourge\\-agility/nerubian(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/nerubian(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/razor",
+      "regex": "^/heros/scourge\\-agility/razor(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/razor(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/sf",
+      "regex": "^/heros/scourge\\-agility/sf(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/sf(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/slark",
+      "regex": "^/heros/scourge\\-agility/slark(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/slark(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/spectre",
+      "regex": "^/heros/scourge\\-agility/spectre(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/spectre(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/terror",
+      "regex": "^/heros/scourge\\-agility/terror(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/terror(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/venomancer",
+      "regex": "^/heros/scourge\\-agility/venomancer(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/venomancer(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/viper",
+      "regex": "^/heros/scourge\\-agility/viper(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/viper(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/void",
+      "regex": "^/heros/scourge\\-agility/void(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/void(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-agility/weaver",
+      "regex": "^/heros/scourge\\-agility/weaver(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-agility/weaver(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence",
+      "regex": "^/heros/scourge\\-intelligence(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/akasha",
+      "regex": "^/heros/scourge\\-intelligence/akasha(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/akasha(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/ancient",
+      "regex": "^/heros/scourge\\-intelligence/ancient(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/ancient(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/atropos",
+      "regex": "^/heros/scourge\\-intelligence/atropos(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/atropos(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/bat",
+      "regex": "^/heros/scourge\\-intelligence/bat(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/bat(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/dark",
+      "regex": "^/heros/scourge\\-intelligence/dark(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/dark(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/dazzle",
+      "regex": "^/heros/scourge\\-intelligence/dazzle(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/dazzle(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/enigma",
+      "regex": "^/heros/scourge\\-intelligence/enigma(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/enigma(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/invoker",
+      "regex": "^/heros/scourge\\-intelligence/invoker(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/invoker(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/krobleus",
+      "regex": "^/heros/scourge\\-intelligence/krobleus(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/krobleus(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/leshrac",
+      "regex": "^/heros/scourge\\-intelligence/leshrac(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/leshrac(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/lich",
+      "regex": "^/heros/scourge\\-intelligence/lich(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/lich(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/lion",
+      "regex": "^/heros/scourge\\-intelligence/lion(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/lion(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/necro",
+      "regex": "^/heros/scourge\\-intelligence/necro(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/necro(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/obsidian",
+      "regex": "^/heros/scourge\\-intelligence/obsidian(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/obsidian(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/pugna",
+      "regex": "^/heros/scourge\\-intelligence/pugna(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/pugna(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/shadow",
+      "regex": "^/heros/scourge\\-intelligence/shadow(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/shadow(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/visage",
+      "regex": "^/heros/scourge\\-intelligence/visage(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/visage(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/warlock",
+      "regex": "^/heros/scourge\\-intelligence/warlock(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/warlock(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/winter",
+      "regex": "^/heros/scourge\\-intelligence/winter(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/winter(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-intelligence/witch",
+      "regex": "^/heros/scourge\\-intelligence/witch(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-intelligence/witch(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength",
+      "regex": "^/heros/scourge\\-strength(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/abaddon",
+      "regex": "^/heros/scourge\\-strength/abaddon(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/abaddon(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/axe",
+      "regex": "^/heros/scourge\\-strength/axe(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/axe(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/doom",
+      "regex": "^/heros/scourge\\-strength/doom(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/doom(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/gaurd",
+      "regex": "^/heros/scourge\\-strength/gaurd(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/gaurd(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/lycan",
+      "regex": "^/heros/scourge\\-strength/lycan(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/lycan(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/magnataur",
+      "regex": "^/heros/scourge\\-strength/magnataur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/magnataur(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/mars",
+      "regex": "^/heros/scourge\\-strength/mars(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/mars(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/naix",
+      "regex": "^/heros/scourge\\-strength/naix(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/naix(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/nessaj",
+      "regex": "^/heros/scourge\\-strength/nessaj(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/nessaj(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/night",
+      "regex": "^/heros/scourge\\-strength/night(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/night(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/pitlord",
+      "regex": "^/heros/scourge\\-strength/pitlord(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/pitlord(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/pudge",
+      "regex": "^/heros/scourge\\-strength/pudge(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/pudge(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/sand",
+      "regex": "^/heros/scourge\\-strength/sand(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/sand(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/sb",
+      "regex": "^/heros/scourge\\-strength/sb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/sb(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/skeleton",
+      "regex": "^/heros/scourge\\-strength/skeleton(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/skeleton(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/tide",
+      "regex": "^/heros/scourge\\-strength/tide(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/tide(?:/)?$"
+    },
+    {
+      "page": "/heros/scourge-strength/undying",
+      "regex": "^/heros/scourge\\-strength/undying(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/scourge\\-strength/undying(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility",
+      "regex": "^/heros/sentinel\\-agility(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/anti-mage",
+      "regex": "^/heros/sentinel\\-agility/anti\\-mage(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/anti\\-mage(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/gondar",
+      "regex": "^/heros/sentinel\\-agility/gondar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/gondar(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/gyrocopter",
+      "regex": "^/heros/sentinel\\-agility/gyrocopter(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/gyrocopter(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/juggernaut",
+      "regex": "^/heros/sentinel\\-agility/juggernaut(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/juggernaut(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/lanaya",
+      "regex": "^/heros/sentinel\\-agility/lanaya(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/lanaya(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/lancer",
+      "regex": "^/heros/sentinel\\-agility/lancer(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/lancer(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/lone-druid",
+      "regex": "^/heros/sentinel\\-agility/lone\\-druid(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/lone\\-druid(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/luna",
+      "regex": "^/heros/sentinel\\-agility/luna(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/luna(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/mirana",
+      "regex": "^/heros/sentinel\\-agility/mirana(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/mirana(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/monkey",
+      "regex": "^/heros/sentinel\\-agility/monkey(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/monkey(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/morphling",
+      "regex": "^/heros/sentinel\\-agility/morphling(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/morphling(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/rikimaru",
+      "regex": "^/heros/sentinel\\-agility/rikimaru(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/rikimaru(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/siren",
+      "regex": "^/heros/sentinel\\-agility/siren(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/siren(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/sniper",
+      "regex": "^/heros/sentinel\\-agility/sniper(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/sniper(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/traxex",
+      "regex": "^/heros/sentinel\\-agility/traxex(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/traxex(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/troll",
+      "regex": "^/heros/sentinel\\-agility/troll(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/troll(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/ursa",
+      "regex": "^/heros/sentinel\\-agility/ursa(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/ursa(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/vengeful",
+      "regex": "^/heros/sentinel\\-agility/vengeful(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/vengeful(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-agility/xin",
+      "regex": "^/heros/sentinel\\-agility/xin(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-agility/xin(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence",
+      "regex": "^/heros/sentinel\\-intelligence(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/chen",
+      "regex": "^/heros/sentinel\\-intelligence/chen(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/chen(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/crystal",
+      "regex": "^/heros/sentinel\\-intelligence/crystal(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/crystal(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/disruptor",
+      "regex": "^/heros/sentinel\\-intelligence/disruptor(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/disruptor(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/enchantress",
+      "regex": "^/heros/sentinel\\-intelligence/enchantress(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/enchantress(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/ezalor",
+      "regex": "^/heros/sentinel\\-intelligence/ezalor(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/ezalor(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/furion",
+      "regex": "^/heros/sentinel\\-intelligence/furion(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/furion(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/jakiro",
+      "regex": "^/heros/sentinel\\-intelligence/jakiro(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/jakiro(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/ogre",
+      "regex": "^/heros/sentinel\\-intelligence/ogre(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/ogre(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/oracle",
+      "regex": "^/heros/sentinel\\-intelligence/oracle(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/oracle(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/puck",
+      "regex": "^/heros/sentinel\\-intelligence/puck(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/puck(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/rubick",
+      "regex": "^/heros/sentinel\\-intelligence/rubick(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/rubick(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/shadow-shaman",
+      "regex": "^/heros/sentinel\\-intelligence/shadow\\-shaman(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/shadow\\-shaman(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/silencer",
+      "regex": "^/heros/sentinel\\-intelligence/silencer(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/silencer(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/sky",
+      "regex": "^/heros/sentinel\\-intelligence/sky(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/sky(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/slayer",
+      "regex": "^/heros/sentinel\\-intelligence/slayer(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/slayer(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/storm",
+      "regex": "^/heros/sentinel\\-intelligence/storm(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/storm(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/tinker",
+      "regex": "^/heros/sentinel\\-intelligence/tinker(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/tinker(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/wind",
+      "regex": "^/heros/sentinel\\-intelligence/wind(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/wind(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-intelligence/zeus",
+      "regex": "^/heros/sentinel\\-intelligence/zeus(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-intelligence/zeus(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength",
+      "regex": "^/heros/sentinel\\-strength(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/alchmist",
+      "regex": "^/heros/sentinel\\-strength/alchmist(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/alchmist(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/brewmaster",
+      "regex": "^/heros/sentinel\\-strength/brewmaster(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/brewmaster(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/brist",
+      "regex": "^/heros/sentinel\\-strength/brist(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/brist(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/centaur",
+      "regex": "^/heros/sentinel\\-strength/centaur(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/centaur(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/cloackwerk",
+      "regex": "^/heros/sentinel\\-strength/cloackwerk(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/cloackwerk(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/dragon-knight",
+      "regex": "^/heros/sentinel\\-strength/dragon\\-knight(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/dragon\\-knight(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/earth-spirit",
+      "regex": "^/heros/sentinel\\-strength/earth\\-spirit(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/earth\\-spirit(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/earthshaker",
+      "regex": "^/heros/sentinel\\-strength/earthshaker(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/earthshaker(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/goblin-shredder",
+      "regex": "^/heros/sentinel\\-strength/goblin\\-shredder(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/goblin\\-shredder(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/huskar",
+      "regex": "^/heros/sentinel\\-strength/huskar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/huskar(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/kunka",
+      "regex": "^/heros/sentinel\\-strength/kunka(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/kunka(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/legion",
+      "regex": "^/heros/sentinel\\-strength/legion(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/legion(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/omni",
+      "regex": "^/heros/sentinel\\-strength/omni(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/omni(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/phoenix",
+      "regex": "^/heros/sentinel\\-strength/phoenix(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/phoenix(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/rexxar",
+      "regex": "^/heros/sentinel\\-strength/rexxar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/rexxar(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/sven",
+      "regex": "^/heros/sentinel\\-strength/sven(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/sven(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/tauren-chieftain",
+      "regex": "^/heros/sentinel\\-strength/tauren\\-chieftain(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/tauren\\-chieftain(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/tiny",
+      "regex": "^/heros/sentinel\\-strength/tiny(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/tiny(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/treant-protector",
+      "regex": "^/heros/sentinel\\-strength/treant\\-protector(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/treant\\-protector(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/tuskarr",
+      "regex": "^/heros/sentinel\\-strength/tuskarr(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/tuskarr(?:/)?$"
+    },
+    {
+      "page": "/heros/sentinel-strength/wisp",
+      "regex": "^/heros/sentinel\\-strength/wisp(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/heros/sentinel\\-strength/wisp(?:/)?$"
+    },
+    {
+      "page": "/items",
+      "regex": "^/items(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items(?:/)?$"
+    },
+    {
+      "page": "/items/ancient",
+      "regex": "^/items/ancient(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/abyssal",
+      "regex": "^/items/ancient/abyssal(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/abyssal(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/armlet",
+      "regex": "^/items/ancient/armlet(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/armlet(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/basher",
+      "regex": "^/items/ancient/basher(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/basher(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/battle",
+      "regex": "^/items/ancient/battle(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/battle(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/bloodthorn",
+      "regex": "^/items/ancient/bloodthorn(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/bloodthorn(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/butterfly",
+      "regex": "^/items/ancient/butterfly(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/butterfly(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/crystalys",
+      "regex": "^/items/ancient/crystalys(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/crystalys(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/echo",
+      "regex": "^/items/ancient/echo(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/echo(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/kayanon",
+      "regex": "^/items/ancient/kayanon(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/kayanon(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/lothar",
+      "regex": "^/items/ancient/lothar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/lothar(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/radiance",
+      "regex": "^/items/ancient/radiance(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/radiance(?:/)?$"
+    },
+    {
+      "page": "/items/ancient/silver",
+      "regex": "^/items/ancient/silver(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/ancient/silver(?:/)?$"
+    },
+    {
+      "page": "/items/arcane",
+      "regex": "^/items/arcane(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/aether",
+      "regex": "^/items/arcane/aether(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/aether(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/dagon",
+      "regex": "^/items/arcane/dagon(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/dagon(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/ethereal",
+      "regex": "^/items/arcane/ethereal(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/ethereal(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/eul",
+      "regex": "^/items/arcane/eul(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/eul(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/force",
+      "regex": "^/items/arcane/force(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/force(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/meteor",
+      "regex": "^/items/arcane/meteor(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/meteor(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/necro",
+      "regex": "^/items/arcane/necro(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/necro(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/orchid",
+      "regex": "^/items/arcane/orchid(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/orchid(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/refresh",
+      "regex": "^/items/arcane/refresh(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/refresh(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/rod",
+      "regex": "^/items/arcane/rod(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/rod(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/veli",
+      "regex": "^/items/arcane/veli(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/veli(?:/)?$"
+    },
+    {
+      "page": "/items/arcane/witch",
+      "regex": "^/items/arcane/witch(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/arcane/witch(?:/)?$"
+    },
+    {
+      "page": "/items/cache",
+      "regex": "^/items/cache(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache(?:/)?$"
+    },
+    {
+      "page": "/items/cache/amulet",
+      "regex": "^/items/cache/amulet(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/amulet(?:/)?$"
+    },
+    {
+      "page": "/items/cache/blink",
+      "regex": "^/items/cache/blink(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/blink(?:/)?$"
+    },
+    {
+      "page": "/items/cache/cloak",
+      "regex": "^/items/cache/cloak(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/cloak(?:/)?$"
+    },
+    {
+      "page": "/items/cache/death",
+      "regex": "^/items/cache/death(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/death(?:/)?$"
+    },
+    {
+      "page": "/items/cache/gloves",
+      "regex": "^/items/cache/gloves(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/gloves(?:/)?$"
+    },
+    {
+      "page": "/items/cache/health",
+      "regex": "^/items/cache/health(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/health(?:/)?$"
+    },
+    {
+      "page": "/items/cache/regeneration",
+      "regex": "^/items/cache/regeneration(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/regeneration(?:/)?$"
+    },
+    {
+      "page": "/items/cache/scepter",
+      "regex": "^/items/cache/scepter(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/scepter(?:/)?$"
+    },
+    {
+      "page": "/items/cache/sobi",
+      "regex": "^/items/cache/sobi(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/sobi(?:/)?$"
+    },
+    {
+      "page": "/items/cache/speed",
+      "regex": "^/items/cache/speed(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/speed(?:/)?$"
+    },
+    {
+      "page": "/items/cache/void",
+      "regex": "^/items/cache/void(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/void(?:/)?$"
+    },
+    {
+      "page": "/items/cache/wind",
+      "regex": "^/items/cache/wind(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/cache/wind(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted",
+      "regex": "^/items/enchanted(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/desolator",
+      "regex": "^/items/enchanted/desolator(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/desolator(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/diffusal",
+      "regex": "^/items/enchanted/diffusal(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/diffusal(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/helm",
+      "regex": "^/items/enchanted/helm(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/helm(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/kaya",
+      "regex": "^/items/enchanted/kaya(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/kaya(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/maelstrom",
+      "regex": "^/items/enchanted/maelstrom(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/maelstrom(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/manta",
+      "regex": "^/items/enchanted/manta(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/manta(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/mask",
+      "regex": "^/items/enchanted/mask(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/mask(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/mjollnir",
+      "regex": "^/items/enchanted/mjollnir(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/mjollnir(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/null",
+      "regex": "^/items/enchanted/null(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/null(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/sang",
+      "regex": "^/items/enchanted/sang(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/sang(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/satanic",
+      "regex": "^/items/enchanted/satanic(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/satanic(?:/)?$"
+    },
+    {
+      "page": "/items/enchanted/yasha",
+      "regex": "^/items/enchanted/yasha(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/enchanted/yasha(?:/)?$"
+    },
+    {
+      "page": "/items/gateway",
+      "regex": "^/items/gateway(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/boots",
+      "regex": "^/items/gateway/boots(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/boots(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/bracer",
+      "regex": "^/items/gateway/bracer(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/bracer(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/hand",
+      "regex": "^/items/gateway/hand(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/hand(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/magic",
+      "regex": "^/items/gateway/magic(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/magic(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/null",
+      "regex": "^/items/gateway/null(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/null(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/oblivion",
+      "regex": "^/items/gateway/oblivion(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/oblivion(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/perseverence",
+      "regex": "^/items/gateway/perseverence(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/perseverence(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/phase",
+      "regex": "^/items/gateway/phase(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/phase(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/power",
+      "regex": "^/items/gateway/power(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/power(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/soul",
+      "regex": "^/items/gateway/soul(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/soul(?:/)?$"
+    },
+    {
+      "page": "/items/gateway/wraith",
+      "regex": "^/items/gateway/wraith(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gateway/wraith(?:/)?$"
+    },
+    {
+      "page": "/items/gryla",
+      "regex": "^/items/gryla(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/alacrity",
+      "regex": "^/items/gryla/alacrity(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/alacrity(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/belt",
+      "regex": "^/items/gryla/belt(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/belt(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/branch",
+      "regex": "^/items/gryla/branch(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/branch(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/circlet",
+      "regex": "^/items/gryla/circlet(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/circlet(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/crown",
+      "regex": "^/items/gryla/crown(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/crown(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/elvenskin",
+      "regex": "^/items/gryla/elvenskin(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/elvenskin(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/gauntlets",
+      "regex": "^/items/gryla/gauntlets(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/gauntlets(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/mantle",
+      "regex": "^/items/gryla/mantle(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/mantle(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/ogre",
+      "regex": "^/items/gryla/ogre(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/ogre(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/robi",
+      "regex": "^/items/gryla/robi(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/robi(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/slippers",
+      "regex": "^/items/gryla/slippers(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/slippers(?:/)?$"
+    },
+    {
+      "page": "/items/gryla/staff",
+      "regex": "^/items/gryla/staff(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/gryla/staff(?:/)?$"
+    },
+    {
+      "page": "/items/laregas",
+      "regex": "^/items/laregas(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/demon",
+      "regex": "^/items/laregas/demon(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/demon(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/eaglehorn",
+      "regex": "^/items/laregas/eaglehorn(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/eaglehorn(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/energy",
+      "regex": "^/items/laregas/energy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/energy(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/hyperstone",
+      "regex": "^/items/laregas/hyperstone(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/hyperstone(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/mystic",
+      "regex": "^/items/laregas/mystic(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/mystic(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/plate",
+      "regex": "^/items/laregas/plate(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/plate(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/point",
+      "regex": "^/items/laregas/point(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/point(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/reaver",
+      "regex": "^/items/laregas/reaver(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/reaver(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/sacred",
+      "regex": "^/items/laregas/sacred(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/sacred(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/talisman",
+      "regex": "^/items/laregas/talisman(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/talisman(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/ultimate",
+      "regex": "^/items/laregas/ultimate(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/ultimate(?:/)?$"
+    },
+    {
+      "page": "/items/laregas/vitality",
+      "regex": "^/items/laregas/vitality(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/laregas/vitality(?:/)?$"
+    },
+    {
+      "page": "/items/market",
+      "regex": "^/items/market(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market(?:/)?$"
+    },
+    {
+      "page": "/items/market/bottle",
+      "regex": "^/items/market/bottle(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/bottle(?:/)?$"
+    },
+    {
+      "page": "/items/market/dust",
+      "regex": "^/items/market/dust(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/dust(?:/)?$"
+    },
+    {
+      "page": "/items/market/gem",
+      "regex": "^/items/market/gem(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/gem(?:/)?$"
+    },
+    {
+      "page": "/items/market/sentry",
+      "regex": "^/items/market/sentry(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/sentry(?:/)?$"
+    },
+    {
+      "page": "/items/market/smoke",
+      "regex": "^/items/market/smoke(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/smoke(?:/)?$"
+    },
+    {
+      "page": "/items/market/tome",
+      "regex": "^/items/market/tome(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/tome(?:/)?$"
+    },
+    {
+      "page": "/items/market/tp",
+      "regex": "^/items/market/tp(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/tp(?:/)?$"
+    },
+    {
+      "page": "/items/market/venom",
+      "regex": "^/items/market/venom(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/venom(?:/)?$"
+    },
+    {
+      "page": "/items/market/ward",
+      "regex": "^/items/market/ward(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/market/ward(?:/)?$"
+    },
+    {
+      "page": "/items/protector",
+      "regex": "^/items/protector(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector(?:/)?$"
+    },
+    {
+      "page": "/items/protector/aeon",
+      "regex": "^/items/protector/aeon(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/aeon(?:/)?$"
+    },
+    {
+      "page": "/items/protector/assault",
+      "regex": "^/items/protector/assault(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/assault(?:/)?$"
+    },
+    {
+      "page": "/items/protector/bkb",
+      "regex": "^/items/protector/bkb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/bkb(?:/)?$"
+    },
+    {
+      "page": "/items/protector/blade",
+      "regex": "^/items/protector/blade(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/blade(?:/)?$"
+    },
+    {
+      "page": "/items/protector/blood",
+      "regex": "^/items/protector/blood(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/blood(?:/)?$"
+    },
+    {
+      "page": "/items/protector/crimson",
+      "regex": "^/items/protector/crimson(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/crimson(?:/)?$"
+    },
+    {
+      "page": "/items/protector/heart",
+      "regex": "^/items/protector/heart(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/heart(?:/)?$"
+    },
+    {
+      "page": "/items/protector/hood",
+      "regex": "^/items/protector/hood(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/hood(?:/)?$"
+    },
+    {
+      "page": "/items/protector/linken",
+      "regex": "^/items/protector/linken(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/linken(?:/)?$"
+    },
+    {
+      "page": "/items/protector/lotus",
+      "regex": "^/items/protector/lotus(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/lotus(?:/)?$"
+    },
+    {
+      "page": "/items/protector/shiva",
+      "regex": "^/items/protector/shiva(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/shiva(?:/)?$"
+    },
+    {
+      "page": "/items/protector/vanguard",
+      "regex": "^/items/protector/vanguard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/protector/vanguard(?:/)?$"
+    },
+    {
+      "page": "/items/supportive",
+      "regex": "^/items/supportive(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/bluckler",
+      "regex": "^/items/supportive/bluckler(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/bluckler(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/boot",
+      "regex": "^/items/supportive/boot(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/boot(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/drum",
+      "regex": "^/items/supportive/drum(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/drum(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/guardian",
+      "regex": "^/items/supportive/guardian(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/guardian(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/headders",
+      "regex": "^/items/supportive/headders(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/headders(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/medalion",
+      "regex": "^/items/supportive/medalion(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/medalion(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/mekansm",
+      "regex": "^/items/supportive/mekansm(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/mekansm(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/pipe",
+      "regex": "^/items/supportive/pipe(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/pipe(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/ring",
+      "regex": "^/items/supportive/ring(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/ring(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/spirit",
+      "regex": "^/items/supportive/spirit(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/spirit(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/urn",
+      "regex": "^/items/supportive/urn(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/urn(?:/)?$"
+    },
+    {
+      "page": "/items/supportive/vladmir",
+      "regex": "^/items/supportive/vladmir(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/supportive/vladmir(?:/)?$"
+    },
+    {
+      "page": "/items/todd",
+      "regex": "^/items/todd(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd(?:/)?$"
+    },
+    {
+      "page": "/items/todd/aghanim",
+      "regex": "^/items/todd/aghanim(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/aghanim(?:/)?$"
+    },
+    {
+      "page": "/items/todd/aquila",
+      "regex": "^/items/todd/aquila(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/aquila(?:/)?$"
+    },
+    {
+      "page": "/items/todd/cape",
+      "regex": "^/items/todd/cape(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/cape(?:/)?$"
+    },
+    {
+      "page": "/items/todd/core",
+      "regex": "^/items/todd/core(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/core(?:/)?$"
+    },
+    {
+      "page": "/items/todd/divine",
+      "regex": "^/items/todd/divine(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/divine(?:/)?$"
+    },
+    {
+      "page": "/items/todd/moonshard",
+      "regex": "^/items/todd/moonshard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/moonshard(?:/)?$"
+    },
+    {
+      "page": "/items/todd/sang-kaya",
+      "regex": "^/items/todd/sang\\-kaya(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/sang\\-kaya(?:/)?$"
+    },
+    {
+      "page": "/items/todd/sang-yasha",
+      "regex": "^/items/todd/sang\\-yasha(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/sang\\-yasha(?:/)?$"
+    },
+    {
+      "page": "/items/todd/solar",
+      "regex": "^/items/todd/solar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/solar(?:/)?$"
+    },
+    {
+      "page": "/items/todd/soul",
+      "regex": "^/items/todd/soul(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/soul(?:/)?$"
+    },
+    {
+      "page": "/items/todd/tp-up",
+      "regex": "^/items/todd/tp\\-up(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/tp\\-up(?:/)?$"
+    },
+    {
+      "page": "/items/todd/yasha-kaya",
+      "regex": "^/items/todd/yasha\\-kaya(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/todd/yasha\\-kaya(?:/)?$"
+    },
+    {
+      "page": "/items/trophy",
+      "regex": "^/items/trophy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/arcane",
+      "regex": "^/items/trophy/arcane(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/arcane(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/armlet",
+      "regex": "^/items/trophy/armlet(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/armlet(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/dragon",
+      "regex": "^/items/trophy/dragon(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/dragon(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/gleipnir",
+      "regex": "^/items/trophy/gleipnir(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/gleipnir(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/halberd",
+      "regex": "^/items/trophy/halberd(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/halberd(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/hex",
+      "regex": "^/items/trophy/hex(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/hex(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/mkb",
+      "regex": "^/items/trophy/mkb(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/mkb(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/overwhelm",
+      "regex": "^/items/trophy/overwhelm(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/overwhelm(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/pike",
+      "regex": "^/items/trophy/pike(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/pike(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/skadi",
+      "regex": "^/items/trophy/skadi(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/skadi(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/swift",
+      "regex": "^/items/trophy/swift(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/swift(?:/)?$"
+    },
+    {
+      "page": "/items/trophy/travel",
+      "regex": "^/items/trophy/travel(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/trophy/travel(?:/)?$"
+    },
+    {
+      "page": "/items/weapons",
+      "regex": "^/items/weapons(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/attack",
+      "regex": "^/items/weapons/attack(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/attack(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/blight",
+      "regex": "^/items/weapons/blight(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/blight(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/blitz",
+      "regex": "^/items/weapons/blitz(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/blitz(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/broadsword",
+      "regex": "^/items/weapons/broadsword(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/broadsword(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/chainmail",
+      "regex": "^/items/weapons/chainmail(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/chainmail(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/claymore",
+      "regex": "^/items/weapons/claymore(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/claymore(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/ironwill",
+      "regex": "^/items/weapons/ironwill(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/ironwill(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/javelin",
+      "regex": "^/items/weapons/javelin(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/javelin(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/mithril",
+      "regex": "^/items/weapons/mithril(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/mithril(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/protection",
+      "regex": "^/items/weapons/protection(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/protection(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/quarter",
+      "regex": "^/items/weapons/quarter(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/quarter(?:/)?$"
+    },
+    {
+      "page": "/items/weapons/queling",
+      "regex": "^/items/weapons/queling(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/weapons/queling(?:/)?$"
+    },
+    {
+      "page": "/items/wonders",
+      "regex": "^/items/wonders(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/fire",
+      "regex": "^/items/wonders/fire(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/fire(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/healing",
+      "regex": "^/items/wonders/healing(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/healing(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/mango",
+      "regex": "^/items/wonders/mango(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/mango(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/potion",
+      "regex": "^/items/wonders/potion(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/potion(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/raindrop",
+      "regex": "^/items/wonders/raindrop(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/raindrop(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/stick",
+      "regex": "^/items/wonders/stick(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/stick(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/tango",
+      "regex": "^/items/wonders/tango(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/tango(?:/)?$"
+    },
+    {
+      "page": "/items/wonders/tp",
+      "regex": "^/items/wonders/tp(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/items/wonders/tp(?:/)?$"
+    },
+    {
+      "page": "/robots.txt",
+      "regex": "^/robots\\.txt(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/robots\\.txt(?:/)?$"
+    },
+    {
+      "page": "/sitemap.xml",
+      "regex": "^/sitemap\\.xml(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sitemap\\.xml(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

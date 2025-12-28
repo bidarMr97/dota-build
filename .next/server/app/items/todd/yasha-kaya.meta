@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(todd)/layout,_N_T_/(items)/items/(todd)/todd/layout,_N_T_/(items)/items/(todd)/todd/(yasha-kaya)/layout,_N_T_/(items)/items/(todd)/todd/(yasha-kaya)/yasha-kaya/layout,_N_T_/(items)/items/(todd)/todd/(yasha-kaya)/yasha-kaya/page,_N_T_/items/todd/yasha-kaya"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KHlhc2hhLWtheWEp/yasha-kaya/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KHlhc2hhLWtheWEp/yasha-kaya",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KHlhc2hhLWtheWEp",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(todd)/layout,_N_T_/(items)/items/(todd)/todd/layout,_N_T_/(items)/items/(todd)/todd/(aquila)/layout,_N_T_/(items)/items/(todd)/todd/(aquila)/aquila/layout,_N_T_/(items)/items/(todd)/todd/(aquila)/aquila/page,_N_T_/items/todd/aquila"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KGFxdWlsYSk/aquila/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KGFxdWlsYSk/aquila",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KGFxdWlsYSk",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

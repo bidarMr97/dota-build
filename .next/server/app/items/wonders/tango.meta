@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(wonders)/layout,_N_T_/(items)/items/(wonders)/wonders/layout,_N_T_/(items)/items/(wonders)/wonders/(tango)/layout,_N_T_/(items)/items/(wonders)/wonders/(tango)/tango/layout,_N_T_/(items)/items/(wonders)/wonders/(tango)/tango/page,_N_T_/items/wonders/tango"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders/!KHRhbmdvKQ/tango/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders/!KHRhbmdvKQ/tango",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders/!KHRhbmdvKQ",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp/wonders",
+    "/!KGl0ZW1zKQ/items/!KHdvbmRlcnMp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

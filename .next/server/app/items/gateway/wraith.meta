@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(gateway)/layout,_N_T_/(items)/items/(gateway)/gateway/layout,_N_T_/(items)/items/(gateway)/gateway/(wraith)/layout,_N_T_/(items)/items/(gateway)/gateway/(wraith)/wraith/layout,_N_T_/(items)/items/(gateway)/gateway/(wraith)/wraith/page,_N_T_/items/gateway/wraith"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway/!KHdyYWl0aCk/wraith/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway/!KHdyYWl0aCk/wraith",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway/!KHdyYWl0aCk",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

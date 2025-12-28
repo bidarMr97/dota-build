@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-agility)/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/(terror)/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/(terror)/terror/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/(terror)/terror/page,_N_T_/heros/scourge-agility/terror"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility/!KHRlcnJvcik/terror/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility/!KHRlcnJvcik/terror",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility/!KHRlcnJvcik",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

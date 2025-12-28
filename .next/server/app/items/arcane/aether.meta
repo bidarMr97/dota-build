@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(arcane)/layout,_N_T_/(items)/items/(arcane)/arcane/layout,_N_T_/(items)/items/(arcane)/arcane/(aether)/layout,_N_T_/(items)/items/(arcane)/arcane/(aether)/aether/layout,_N_T_/(items)/items/(arcane)/arcane/(aether)/aether/page,_N_T_/items/arcane/aether"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KGFldGhlcik/aether/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KGFldGhlcik/aether",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KGFldGhlcik",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

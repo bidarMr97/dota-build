@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(sentinel-agility)/layout,_N_T_/(heros)/heros/(sentinel-agility)/sentinel-agility/layout,_N_T_/(heros)/heros/(sentinel-agility)/sentinel-agility/(vengeful)/layout,_N_T_/(heros)/heros/(sentinel-agility)/sentinel-agility/(vengeful)/vengeful/layout,_N_T_/(heros)/heros/(sentinel-agility)/sentinel-agility/(vengeful)/vengeful/page,_N_T_/heros/sentinel-agility/vengeful"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWFnaWxpdHkp/sentinel-agility/!KHZlbmdlZnVsKQ/vengeful/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWFnaWxpdHkp/sentinel-agility/!KHZlbmdlZnVsKQ/vengeful",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWFnaWxpdHkp/sentinel-agility/!KHZlbmdlZnVsKQ",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWFnaWxpdHkp/sentinel-agility",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLWFnaWxpdHkp",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

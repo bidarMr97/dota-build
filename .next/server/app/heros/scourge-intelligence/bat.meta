@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-intelligence)/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(bat)/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(bat)/bat/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(bat)/bat/page,_N_T_/heros/scourge-intelligence/bat"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KGJhdCk/bat/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KGJhdCk/bat",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KGJhdCk",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

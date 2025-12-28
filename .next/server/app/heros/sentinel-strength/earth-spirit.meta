@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(sentinel-strength)/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/(earth-spirit)/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/(earth-spirit)/earth-spirit/layout,_N_T_/(heros)/heros/(sentinel-strength)/sentinel-strength/(earth-spirit)/earth-spirit/page,_N_T_/heros/sentinel-strength/earth-spirit"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength/!KGVhcnRoLXNwaXJpdCk/earth-spirit/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength/!KGVhcnRoLXNwaXJpdCk/earth-spirit",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength/!KGVhcnRoLXNwaXJpdCk",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ/sentinel-strength",
+    "/!KGhlcm9zKQ/heros/!KHNlbnRpbmVsLXN0cmVuZ3RoKQ",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

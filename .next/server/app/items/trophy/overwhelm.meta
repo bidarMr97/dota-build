@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(trophy)/layout,_N_T_/(items)/items/(trophy)/trophy/layout,_N_T_/(items)/items/(trophy)/trophy/(overwhelm)/layout,_N_T_/(items)/items/(trophy)/trophy/(overwhelm)/overwhelm/layout,_N_T_/(items)/items/(trophy)/trophy/(overwhelm)/overwhelm/page,_N_T_/items/trophy/overwhelm"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KG92ZXJ3aGVsbSk/overwhelm/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KG92ZXJ3aGVsbSk/overwhelm",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KG92ZXJ3aGVsbSk",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

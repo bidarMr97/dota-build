@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(ancient)/layout,_N_T_/(items)/items/(ancient)/ancient/layout,_N_T_/(items)/items/(ancient)/ancient/(lothar)/layout,_N_T_/(items)/items/(ancient)/ancient/(lothar)/lothar/layout,_N_T_/(items)/items/(ancient)/ancient/(lothar)/lothar/page,_N_T_/items/ancient/lothar"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGxvdGhhcik/lothar/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGxvdGhhcik/lothar",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGxvdGhhcik",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

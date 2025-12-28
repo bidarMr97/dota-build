@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(supportive)/layout,_N_T_/(items)/items/(supportive)/supportive/layout,_N_T_/(items)/items/(supportive)/supportive/(drum)/layout,_N_T_/(items)/items/(supportive)/supportive/(drum)/drum/layout,_N_T_/(items)/items/(supportive)/supportive/(drum)/drum/page,_N_T_/items/supportive/drum"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive/!KGRydW0p/drum/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive/!KGRydW0p/drum",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive/!KGRydW0p",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

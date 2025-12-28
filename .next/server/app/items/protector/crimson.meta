@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(protector)/layout,_N_T_/(items)/items/(protector)/protector/layout,_N_T_/(items)/items/(protector)/protector/(crimson)/layout,_N_T_/(items)/items/(protector)/protector/(crimson)/crimson/layout,_N_T_/(items)/items/(protector)/protector/(crimson)/crimson/page,_N_T_/items/protector/crimson"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHByb3RlY3Rvcik/protector/!KGNyaW1zb24p/crimson/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHByb3RlY3Rvcik/protector/!KGNyaW1zb24p/crimson",
+    "/!KGl0ZW1zKQ/items/!KHByb3RlY3Rvcik/protector/!KGNyaW1zb24p",
+    "/!KGl0ZW1zKQ/items/!KHByb3RlY3Rvcik/protector",
+    "/!KGl0ZW1zKQ/items/!KHByb3RlY3Rvcik",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

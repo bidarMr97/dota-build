@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(gateway)/layout,_N_T_/(items)/items/(gateway)/gateway/layout,_N_T_/(items)/items/(gateway)/gateway/(magic)/layout,_N_T_/(items)/items/(gateway)/gateway/(magic)/magic/layout,_N_T_/(items)/items/(gateway)/gateway/(magic)/magic/page,_N_T_/items/gateway/magic"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway/!KG1hZ2ljKQ/magic/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway/!KG1hZ2ljKQ/magic",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway/!KG1hZ2ljKQ",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp/gateway",
+    "/!KGl0ZW1zKQ/items/!KGdhdGV3YXkp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

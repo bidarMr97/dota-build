@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(ancient)/layout,_N_T_/(items)/items/(ancient)/ancient/layout,_N_T_/(items)/items/(ancient)/ancient/(bloodthorn)/layout,_N_T_/(items)/items/(ancient)/ancient/(bloodthorn)/bloodthorn/layout,_N_T_/(items)/items/(ancient)/ancient/(bloodthorn)/bloodthorn/page,_N_T_/items/ancient/bloodthorn"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGJsb29kdGhvcm4p/bloodthorn/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGJsb29kdGhvcm4p/bloodthorn",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGJsb29kdGhvcm4p",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

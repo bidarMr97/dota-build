@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(arcane)/layout,_N_T_/(items)/items/(arcane)/arcane/layout,_N_T_/(items)/items/(arcane)/arcane/(refresh)/layout,_N_T_/(items)/items/(arcane)/arcane/(refresh)/refresh/layout,_N_T_/(items)/items/(arcane)/arcane/(refresh)/refresh/page,_N_T_/items/arcane/refresh"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHJlZnJlc2gp/refresh/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHJlZnJlc2gp/refresh",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHJlZnJlc2gp",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-strength)/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/page,_N_T_/heros/scourge-strength"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

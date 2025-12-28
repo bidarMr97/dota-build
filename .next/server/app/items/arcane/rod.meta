@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(arcane)/layout,_N_T_/(items)/items/(arcane)/arcane/layout,_N_T_/(items)/items/(arcane)/arcane/(rod)/layout,_N_T_/(items)/items/(arcane)/arcane/(rod)/rod/layout,_N_T_/(items)/items/(arcane)/arcane/(rod)/rod/page,_N_T_/items/arcane/rod"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHJvZCk/rod/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHJvZCk/rod",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHJvZCk",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

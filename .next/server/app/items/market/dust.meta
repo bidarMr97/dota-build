@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(market)/layout,_N_T_/(items)/items/(market)/market/layout,_N_T_/(items)/items/(market)/market/(dust)/layout,_N_T_/(items)/items/(market)/market/(dust)/dust/layout,_N_T_/(items)/items/(market)/market/(dust)/dust/page,_N_T_/items/market/dust"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market/!KGR1c3Qp/dust/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market/!KGR1c3Qp/dust",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market/!KGR1c3Qp",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

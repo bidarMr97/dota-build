@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(trophy)/layout,_N_T_/(items)/items/(trophy)/trophy/layout,_N_T_/(items)/items/(trophy)/trophy/(armlet)/layout,_N_T_/(items)/items/(trophy)/trophy/(armlet)/armlet/layout,_N_T_/(items)/items/(trophy)/trophy/(armlet)/armlet/page,_N_T_/items/trophy/armlet"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KGFybWxldCk/armlet/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KGFybWxldCk/armlet",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KGFybWxldCk",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

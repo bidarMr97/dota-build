@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(enchanted)/layout,_N_T_/(items)/items/(enchanted)/enchanted/layout,_N_T_/(items)/items/(enchanted)/enchanted/(mask)/layout,_N_T_/(items)/items/(enchanted)/enchanted/(mask)/mask/layout,_N_T_/(items)/items/(enchanted)/enchanted/(mask)/mask/page,_N_T_/items/enchanted/mask"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGVuY2hhbnRlZCk/enchanted/!KG1hc2sp/mask/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGVuY2hhbnRlZCk/enchanted/!KG1hc2sp/mask",
+    "/!KGl0ZW1zKQ/items/!KGVuY2hhbnRlZCk/enchanted/!KG1hc2sp",
+    "/!KGl0ZW1zKQ/items/!KGVuY2hhbnRlZCk/enchanted",
+    "/!KGl0ZW1zKQ/items/!KGVuY2hhbnRlZCk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

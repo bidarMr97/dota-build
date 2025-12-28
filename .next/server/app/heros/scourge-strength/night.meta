@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-strength)/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/(night)/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/(night)/night/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/(night)/night/page,_N_T_/heros/scourge-strength/night"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength/!KG5pZ2h0KQ/night/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength/!KG5pZ2h0KQ/night",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength/!KG5pZ2h0KQ",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

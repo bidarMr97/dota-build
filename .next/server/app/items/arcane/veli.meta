@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(arcane)/layout,_N_T_/(items)/items/(arcane)/arcane/layout,_N_T_/(items)/items/(arcane)/arcane/(veli)/layout,_N_T_/(items)/items/(arcane)/arcane/(veli)/veli/layout,_N_T_/(items)/items/(arcane)/arcane/(veli)/veli/page,_N_T_/items/arcane/veli"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHZlbGkp/veli/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHZlbGkp/veli",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane/!KHZlbGkp",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk/arcane",
+    "/!KGl0ZW1zKQ/items/!KGFyY2FuZSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

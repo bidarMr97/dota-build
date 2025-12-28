@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-strength)/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/(naix)/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/(naix)/naix/layout,_N_T_/(heros)/heros/(scourge-strength)/scourge-strength/(naix)/naix/page,_N_T_/heros/scourge-strength/naix"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength/!KG5haXgp/naix/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength/!KG5haXgp/naix",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength/!KG5haXgp",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp/scourge-strength",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2Utc3RyZW5ndGgp",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

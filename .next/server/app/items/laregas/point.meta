@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(laregas)/layout,_N_T_/(items)/items/(laregas)/laregas/layout,_N_T_/(items)/items/(laregas)/laregas/(point)/layout,_N_T_/(items)/items/(laregas)/laregas/(point)/point/layout,_N_T_/(items)/items/(laregas)/laregas/(point)/point/page,_N_T_/items/laregas/point"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGxhcmVnYXMp/laregas/!KHBvaW50KQ/point/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGxhcmVnYXMp/laregas/!KHBvaW50KQ/point",
+    "/!KGl0ZW1zKQ/items/!KGxhcmVnYXMp/laregas/!KHBvaW50KQ",
+    "/!KGl0ZW1zKQ/items/!KGxhcmVnYXMp/laregas",
+    "/!KGl0ZW1zKQ/items/!KGxhcmVnYXMp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

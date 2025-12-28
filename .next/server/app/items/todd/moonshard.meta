@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(todd)/layout,_N_T_/(items)/items/(todd)/todd/layout,_N_T_/(items)/items/(todd)/todd/(moonshard)/layout,_N_T_/(items)/items/(todd)/todd/(moonshard)/moonshard/layout,_N_T_/(items)/items/(todd)/todd/(moonshard)/moonshard/page,_N_T_/items/todd/moonshard"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KG1vb25zaGFyZCk/moonshard/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KG1vb25zaGFyZCk/moonshard",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd/!KG1vb25zaGFyZCk",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp/todd",
+    "/!KGl0ZW1zKQ/items/!KHRvZGQp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

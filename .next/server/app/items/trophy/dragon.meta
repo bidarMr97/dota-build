@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(trophy)/layout,_N_T_/(items)/items/(trophy)/trophy/layout,_N_T_/(items)/items/(trophy)/trophy/(dragon)/layout,_N_T_/(items)/items/(trophy)/trophy/(dragon)/dragon/layout,_N_T_/(items)/items/(trophy)/trophy/(dragon)/dragon/page,_N_T_/items/trophy/dragon"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KGRyYWdvbik/dragon/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KGRyYWdvbik/dragon",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KGRyYWdvbik",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

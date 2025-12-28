@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(supportive)/layout,_N_T_/(items)/items/(supportive)/supportive/layout,_N_T_/(items)/items/(supportive)/supportive/(guardian)/layout,_N_T_/(items)/items/(supportive)/supportive/(guardian)/guardian/layout,_N_T_/(items)/items/(supportive)/supportive/(guardian)/guardian/page,_N_T_/items/supportive/guardian"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive/!KGd1YXJkaWFuKQ/guardian/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive/!KGd1YXJkaWFuKQ/guardian",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive/!KGd1YXJkaWFuKQ",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp/supportive",
+    "/!KGl0ZW1zKQ/items/!KHN1cHBvcnRpdmUp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

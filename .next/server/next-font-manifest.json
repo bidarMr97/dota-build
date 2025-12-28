@@ -1,0 +1,1191 @@
+{
+  "app": {
+    "[project]/Desktop/dota1/src/app/(Home)/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(arc)/arc/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(blood)/blood/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(bone)/bone/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(brood)/brood/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(medusa)/medusa/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(meepo)/meepo/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(mortred)/mortred/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(nerubian)/nerubian/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(razor)/razor/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(sf)/sf/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(slark)/slark/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(spectre)/spectre/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(terror)/terror/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(venomancer)/venomancer/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(viper)/viper/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(void)/void/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/(weaver)/weaver/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-agility)/scourge-agility/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(akasha)/akasha/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(ancient)/ancient/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(atropos)/atropos/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(bat)/bat/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(dark)/dark/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(dazzle)/dazzle/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(enigma)/enigma/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(invoker)/invoker/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(krobleus)/krobleus/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(leshrac)/leshrac/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(lich)/lich/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(lion)/lion/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(necro)/necro/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(obsidian)/obsidian/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(pugna)/pugna/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(shadow-demon)/shadow/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(visage)/visage/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(warlock)/warlock/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(winter)/winter/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(witch)/witch/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-intelligence)/scourge-intelligence/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(abaddon)/abaddon/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(axe)/axe/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(doom)/doom/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(gaurd)/gaurd/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(lycan)/lycan/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(magnataur)/magnataur/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(mars)/mars/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(naix)/naix/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(nessaj)/nessaj/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(night)/night/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(pitlord)/pitlord/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(pudge)/pudge/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(sand)/sand/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(sb)/sb/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(skeleton)/skeleton/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(tide)/tide/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/(undying)/undying/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(scourge-strength)/scourge-strength/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(anti-mage)/anti-mage/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(gondar)/gondar/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(gyrocopter)/gyrocopter/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(juggernaut)/juggernaut/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(lanaya)/lanaya/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(lancer)/lancer/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(lone-druid)/lone-druid/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(luna)/luna/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(mirana)/mirana/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(monkey)/monkey/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(morphling)/morphling/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(rikimaru)/rikimaru/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(siren)/siren/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(sniper)/sniper/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(traxex)/traxex/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(troll)/troll/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(ursa)/ursa/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(vengeful)/vengeful/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/(xin)/xin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-agility)/sentinel-agility/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(chen)/chen/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(crystal)/crystal/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(disruptor)/disruptor/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(enchantress)/enchantress/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(ezalor)/ezalor/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(furion)/furion/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(jakiro)/jakiro/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(ogre)/ogre/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(oracle)/oracle/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(puck)/puck/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(rubick)/rubick/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(shadow-shaman)/shadow-shaman/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(silencer)/silencer/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(sky)/sky/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(slayer)/slayer/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(storm)/storm/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(tinker)/tinker/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(wind)/wind/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/(zeus)/zeus/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-intelligence)/sentinel-intelligence/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(Tuskarr)/tuskarr/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(alchmist)/alchmist/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(brewmaster)/brewmaster/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(brist)/brist/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(centaur)/centaur/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(cloackwerk)/cloackwerk/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(dragon-knight)/dragon-knight/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(earth-spirit)/earth-spirit/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(earthshaker)/earthshaker/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(goblin-shredder)/goblin-shredder/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(huskar)/huskar/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(kunka)/kunka/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(legion)/legion/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(omni)/omni/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(phoenix)/phoenix/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(rexxar)/rexxar/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(sven)/sven/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(tauren-chieftain)/tauren-chieftain/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(tiny)/tiny/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(treant-protector)/treant-protector/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/(wisp)/wisp/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/(sentinel-strength)/sentinel-strength/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(heros)/heros/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(abyssal)/abyssal/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(armlet)/armlet/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(basher)/basher/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(battle)/battle/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(bloodthorn)/bloodthorn/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(butterfly)/butterfly/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(crystalys)/crystalys/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(echo)/echo/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(kayanon)/kayanon/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(lothar)/lothar/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(radiance)/radiance/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/(silver)/silver/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(ancient)/ancient/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(aether)/aether/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(dagon)/dagon/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(ethereal)/ethereal/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(eul)/eul/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(force)/force/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(meteor)/meteor/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(necro)/necro/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(orchid)/orchid/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(refresh)/refresh/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(rod)/rod/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(veli)/veli/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/(witch)/witch/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(arcane)/arcane/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(amulet)/amulet/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(blink)/blink/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(cloak)/cloak/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(death)/death/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(gloves)/gloves/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(health)/health/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(regeneration)/regeneration/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(scepter)/scepter/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(sobi)/sobi/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(speed)/speed/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(void)/void/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/(wind)/wind/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(cache)/cache/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(desolator)/desolator/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(diffusal)/diffusal/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(helm)/helm/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(kaya)/kaya/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(maelstrom)/maelstrom/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(manta)/manta/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(mask)/mask/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(mjollnir)/mjollnir/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(null)/null/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(sang)/sang/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(satanic)/satanic/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/(yasha)/yasha/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(enchanted)/enchanted/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(boots)/boots/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(bracer)/bracer/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(hand)/hand/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(magic)/magic/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(null)/null/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(oblivion)/oblivion/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(perseverence)/perseverence/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(phase)/phase/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(power)/power/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(soul)/soul/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/(wraith)/wraith/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gateway)/gateway/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(alacrity)/alacrity/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(belt)/belt/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(branch)/branch/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(circlet)/circlet/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(crown)/crown/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(elvenskin)/elvenskin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(gauntlets)/gauntlets/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(mantle)/mantle/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(ogre)/ogre/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(robi)/robi/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(slippers)/slippers/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/(staff)/staff/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(gryla)/gryla/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(demon)/demon/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(eaglehorn)/eaglehorn/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(energy)/energy/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(hyperstone)/hyperstone/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(mystic)/mystic/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(plate)/plate/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(point)/point/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(reaver)/reaver/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(sacred)/sacred/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(talisman)/talisman/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(ultimate)/ultimate/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/(vitality)/vitality/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(laregas)/laregas/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(bottle)/bottle/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(dust)/dust/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(gem)/gem/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(sentry)/sentry/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(smoke)/smoke/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(tome)/tome/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(tp)/tp/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(venom)/venom/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/(ward)/ward/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(market)/market/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(aeon)/aeon/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(assault)/assault/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(bkb)/bkb/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(blade)/blade/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(blood)/blood/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(crimson)/crimson/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(heart)/heart/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(hood)/hood/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(linken)/linken/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(lotus)/lotus/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(shiva)/shiva/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/(vanguard)/vanguard/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(protector)/protector/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(bluckler)/bluckler/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(boot)/boot/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(drum)/drum/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(guardian)/guardian/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(headders)/headders/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(medalion)/medalion/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(mekansm)/mekansm/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(pipe)/pipe/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(ring)/ring/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(spirit)/spirit/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(urn)/urn/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/(vladmir)/vladmir/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(supportive)/supportive/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(aghanim)/aghanim/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(aquila)/aquila/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(cape)/cape/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(core)/core/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(divine)/divine/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(moonshard)/moonshard/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(sang-kaya)/sang-kaya/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(sang-yasha)/sang-yasha/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(solar)/solar/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(soul)/soul/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(tp-up)/tp-up/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/(yasha-kaya)/yasha-kaya/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(todd)/todd/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(arcane)/arcane/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(armlet)/armlet/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(dragon)/dragon/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(gleipnir)/gleipnir/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(halberd)/halberd/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(hex)/hex/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(mkb)/mkb/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(overwhelm)/overwhelm/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(pike)/pike/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(skadi)/skadi/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(swift)/swift/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/(travel)/travel/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(trophy)/trophy/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(attack)/attack/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(blight)/blight/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(blitz)/blitz/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(broadsword)/broadsword/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(chainmail)/chainmail/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(claymore)/claymore/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(ironwill)/ironwill/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(javelin)/javelin/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(mithril)/mithril/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(protection)/protection/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(quarter)/quarter/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/(queling)/queling/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(weapons)/weapons/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(fire)/fire/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(healing)/healing/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(mango)/mango/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(potion)/potion/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(raindrop)/raindrop/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(stick)/stick/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(tango)/tango/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/(tp)/tp/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/(wonders)/wonders/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ],
+    "[project]/Desktop/dota1/src/app/(items)/items/page": [
+      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
+      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

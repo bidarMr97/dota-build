@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-agility)/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/(mortred)/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/(mortred)/mortred/layout,_N_T_/(heros)/heros/(scourge-agility)/scourge-agility/(mortred)/mortred/page,_N_T_/heros/scourge-agility/mortred"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility/!KG1vcnRyZWQp/mortred/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility/!KG1vcnRyZWQp/mortred",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility/!KG1vcnRyZWQp",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk/scourge-agility",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtYWdpbGl0eSk",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1f5d5bb9._.js")
+R.c("server/chunks/ssr/238cb_next_dist_5eb2105c._.js")
+R.c("server/chunks/ssr/238cb_next_dist_fabefeeb._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__3b9edba1._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__3f3815c1._.js")
+R.c("server/chunks/ssr/238cb_next_dist_254b8ea4._.js")
+R.c("server/chunks/ssr/238cb_aca3a6df._.js")
+R.c("server/chunks/ssr/238cb_next_dist_client_components_b58850ec._.js")
+R.c("server/chunks/ssr/238cb_next_dist_client_components_builtin_forbidden_f3843a83.js")
+R.c("server/chunks/ssr/Desktop_dota1__next-internal_server_app__not-found_page_actions_1d2e77d0.js")
+R.m(72410)
+module.exports=R.m(72410).exports

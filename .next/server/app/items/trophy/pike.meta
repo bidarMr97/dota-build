@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(trophy)/layout,_N_T_/(items)/items/(trophy)/trophy/layout,_N_T_/(items)/items/(trophy)/trophy/(pike)/layout,_N_T_/(items)/items/(trophy)/trophy/(pike)/pike/layout,_N_T_/(items)/items/(trophy)/trophy/(pike)/pike/page,_N_T_/items/trophy/pike"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KHBpa2Up/pike/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KHBpa2Up/pike",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy/!KHBpa2Up",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk/trophy",
+    "/!KGl0ZW1zKQ/items/!KHRyb3BoeSk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

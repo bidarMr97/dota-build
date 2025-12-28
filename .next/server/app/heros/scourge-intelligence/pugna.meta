@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-intelligence)/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(pugna)/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(pugna)/pugna/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(pugna)/pugna/page,_N_T_/heros/scourge-intelligence/pugna"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KHB1Z25hKQ/pugna/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KHB1Z25hKQ/pugna",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KHB1Z25hKQ",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(ancient)/layout,_N_T_/(items)/items/(ancient)/ancient/layout,_N_T_/(items)/items/(ancient)/ancient/(butterfly)/layout,_N_T_/(items)/items/(ancient)/ancient/(butterfly)/butterfly/layout,_N_T_/(items)/items/(ancient)/ancient/(butterfly)/butterfly/page,_N_T_/items/ancient/butterfly"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGJ1dHRlcmZseSk/butterfly/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGJ1dHRlcmZseSk/butterfly",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient/!KGJ1dHRlcmZseSk",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp/ancient",
+    "/!KGl0ZW1zKQ/items/!KGFuY2llbnQp",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

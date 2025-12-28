@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(heros)/layout,_N_T_/(heros)/heros/layout,_N_T_/(heros)/heros/(scourge-intelligence)/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(shadow-demon)/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(shadow-demon)/shadow/layout,_N_T_/(heros)/heros/(scourge-intelligence)/scourge-intelligence/(shadow-demon)/shadow/page,_N_T_/heros/scourge-intelligence/shadow"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KHNoYWRvdy1kZW1vbik/shadow/__PAGE__",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KHNoYWRvdy1kZW1vbik/shadow",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence/!KHNoYWRvdy1kZW1vbik",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ/scourge-intelligence",
+    "/!KGhlcm9zKQ/heros/!KHNjb3VyZ2UtaW50ZWxsaWdlbmNlKQ",
+    "/!KGhlcm9zKQ/heros",
+    "/!KGhlcm9zKQ",
+    "/_index",
+    "/_head"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(items)/layout,_N_T_/(items)/items/layout,_N_T_/(items)/items/(market)/layout,_N_T_/(items)/items/(market)/market/layout,_N_T_/(items)/items/(market)/market/(bottle)/layout,_N_T_/(items)/items/(market)/market/(bottle)/bottle/layout,_N_T_/(items)/items/(market)/market/(bottle)/bottle/page,_N_T_/items/market/bottle"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market/!KGJvdHRsZSk/bottle/__PAGE__",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market/!KGJvdHRsZSk/bottle",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market/!KGJvdHRsZSk",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk/market",
+    "/!KGl0ZW1zKQ/items/!KG1hcmtldCk",
+    "/!KGl0ZW1zKQ/items",
+    "/!KGl0ZW1zKQ",
+    "/_index",
+    "/_head"
+  ]
+}
