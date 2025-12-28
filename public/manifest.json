@@ -4,7 +4,9 @@
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-    "icons": [
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
     {
       "src": "/images/icon-192.png",
       "sizes": "192x192",
@@ -31,7 +33,7 @@
       "type": "image/png",
       "purpose": "maskable"
     },
-     {
+    {
       "src": "windows11/SmallTile.scale-100.png",
       "sizes": "71x71"
     },
@@ -352,5 +354,4 @@
       "sizes": "256x256"
     }
   ]
-
 }
