@@ -1,6 +1,6 @@
 {
   "name": "dota1",
-  "short_name": "pwa",
+  "short_name": "dota1",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
