@@ -1,10 +1,11 @@
 var R=require("../../../../../chunks/ssr/[turbopack]_runtime.js")("server/app/(heros)/heros/(sentinel-agility)/sentinel-agility/page.js")
 R.c("server/chunks/ssr/[root-of-the-server]__6f6e4bcc._.js")
-R.c("server/chunks/ssr/238cb_next_dist_5eb2105c._.js")
-R.c("server/chunks/ssr/Desktop_dota1_733051ed._.js")
+R.c("server/chunks/ssr/Desktop_dota1_da540538._.js")
+R.c("server/chunks/ssr/Desktop_dota1_66f0a92e._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__90e9feaf._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__3f3815c1._.js")
-R.c("server/chunks/ssr/238cb_next_dist_254b8ea4._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__b7e75cd7._.js")
+R.c("server/chunks/ssr/238cb_next_dist_921c26b4._.js")
+R.c("server/chunks/ssr/Desktop_dota1_src_app_339d4609._.js")
 R.c("server/chunks/ssr/238cb_next_dist_client_components_builtin_global-error_b340f9f8.js")
 R.c("server/chunks/ssr/238cb_next_dist_client_components_b58850ec._.js")
 R.c("server/chunks/ssr/238cb_next_dist_client_components_builtin_forbidden_f3843a83.js")
@@ -12,5 +13,5 @@ R.c("server/chunks/ssr/238cb_next_dist_client_components_builtin_unauthorized_91
 R.c("server/chunks/ssr/Desktop_dota1_src_app_(heros)_layout_tsx_41d8cc06._.js")
 R.c("server/chunks/ssr/Desktop_dota1_src_app_(heros)_heros_(sentinel-agility)_layout_tsx_84860135._.js")
 R.c("server/chunks/ssr/1b6ce_app_(heros)_heros_(sentinel-agility)_sentinel-agility_page_actions_5d8a382d.js")
-R.m(6104)
-module.exports=R.m(6104).exports
+R.m(53995)
+module.exports=R.m(53995).exports

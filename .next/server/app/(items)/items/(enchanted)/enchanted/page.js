@@ -1,10 +1,11 @@
 var R=require("../../../../../chunks/ssr/[turbopack]_runtime.js")("server/app/(items)/items/(enchanted)/enchanted/page.js")
 R.c("server/chunks/ssr/[root-of-the-server]__9fa1b34b._.js")
-R.c("server/chunks/ssr/238cb_next_dist_5eb2105c._.js")
-R.c("server/chunks/ssr/Desktop_dota1_667be49c._.js")
+R.c("server/chunks/ssr/Desktop_dota1_da540538._.js")
+R.c("server/chunks/ssr/Desktop_dota1_f5807109._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__90e9feaf._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__3f3815c1._.js")
-R.c("server/chunks/ssr/238cb_next_dist_254b8ea4._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__b7e75cd7._.js")
+R.c("server/chunks/ssr/238cb_next_dist_921c26b4._.js")
+R.c("server/chunks/ssr/Desktop_dota1_src_app_339d4609._.js")
 R.c("server/chunks/ssr/238cb_next_dist_client_components_builtin_global-error_b340f9f8.js")
 R.c("server/chunks/ssr/238cb_next_dist_client_components_b58850ec._.js")
 R.c("server/chunks/ssr/238cb_next_dist_client_components_builtin_forbidden_f3843a83.js")
@@ -12,5 +13,5 @@ R.c("server/chunks/ssr/238cb_next_dist_client_components_builtin_unauthorized_91
 R.c("server/chunks/ssr/Desktop_dota1_src_app_(items)_layout_tsx_60a853e9._.js")
 R.c("server/chunks/ssr/Desktop_dota1_src_app_(items)_items_(enchanted)_layout_tsx_ae1ca7c2._.js")
 R.c("server/chunks/ssr/ed0c0_server_app_(items)_items_(enchanted)_enchanted_page_actions_d6f10209.js")
-R.m(17162)
-module.exports=R.m(17162).exports
+R.m(56840)
+module.exports=R.m(56840).exports

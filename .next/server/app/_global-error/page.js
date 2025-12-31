@@ -1,10 +1,11 @@
 var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
 R.c("server/chunks/ssr/[root-of-the-server]__312501f7._.js")
-R.c("server/chunks/ssr/238cb_next_dist_5eb2105c._.js")
-R.c("server/chunks/ssr/238cb_next_dist_0acd9819._.js")
+R.c("server/chunks/ssr/Desktop_dota1_da540538._.js")
+R.c("server/chunks/ssr/238cb_next_dist_921ae03e._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__3b9edba1._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__3f3815c1._.js")
-R.c("server/chunks/ssr/238cb_next_dist_254b8ea4._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__b7e75cd7._.js")
+R.c("server/chunks/ssr/238cb_next_dist_921c26b4._.js")
+R.c("server/chunks/ssr/Desktop_dota1_src_app_339d4609._.js")
 R.c("server/chunks/ssr/Desktop_dota1__next-internal_server_app__global-error_page_actions_4ec9abe3.js")
-R.m(94718)
-module.exports=R.m(94718).exports
+R.m(32034)
+module.exports=R.m(32034).exports

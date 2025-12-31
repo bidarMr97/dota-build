@@ -296,4 +296,4 @@
 :HL["/images/items/laregas/vitality.png","image"]
 :HL["/images/items/laregas/ultimate.png","image"]
 :HL["/images/heros/witch/wit.jpg","image"]
-0:{"buildId":"QOzi9_nBcEO0yYEQseK4i","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(Home)","paramType":null,"paramKey":"(Home)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true}},"isRootLayout":false},"staleTime":300}
+0:{"buildId":"PgbFT9lAhTHJLULl91yzc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(Home)","paramType":null,"paramKey":"(Home)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true}},"isRootLayout":false},"staleTime":300}
