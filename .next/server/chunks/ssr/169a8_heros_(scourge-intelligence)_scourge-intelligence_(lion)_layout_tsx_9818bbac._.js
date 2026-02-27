@@ -1,0 +1,3 @@
+module.exports=[77637,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=169a8_heros_%28scourge-intelligence%29_scourge-intelligence_%28lion%29_layout_tsx_9818bbac._.js.map

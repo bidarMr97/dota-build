@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,93327,e=>{"use strict";var r=e.i(39545);function o(){return(0,r.useEffect)(()=>{"serviceWorker"in navigator&&navigator.serviceWorker.register("/sw.js").then(()=>console.log("SW registered")).catch(console.error)},[]),null}e.s(["default",()=>o])}]);

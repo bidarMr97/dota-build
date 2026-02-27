@@ -1,3 +1,0 @@
-module.exports=[31044,a=>{"use strict";var b=a.i(89933);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
-
-//# sourceMappingURL=9cae9_%28heros%29_heros_%28sentinel-agility%29_sentinel-agility_%28sniper%29_layout_tsx_40806872._.js.map

@@ -99,7 +99,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\wwwiz",
+    "outputFileTracingRoot": "D:\\dev\\projects\\dota1\\dota1",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -289,12 +289,12 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\wwwiz"
+      "root": "D:\\dev\\projects\\dota1\\dota1"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\wwwiz\\Desktop\\dota1",
-  "relativeAppDir": "Desktop\\dota1",
+  "appDir": "D:\\dev\\projects\\dota1\\dota1",
+  "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
     ".next\\server\\pages-manifest.json",

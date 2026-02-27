@@ -1,3 +1,0 @@
-module.exports=[41197,a=>{"use strict";var b=a.i(89933);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
-
-//# sourceMappingURL=1c23c_src_app_%28items%29_items_%28supportive%29_supportive_%28guardian%29_layout_tsx_b98e3b6e._.js.map

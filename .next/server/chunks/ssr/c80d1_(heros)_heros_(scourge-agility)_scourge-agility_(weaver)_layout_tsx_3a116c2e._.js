@@ -1,0 +1,3 @@
+module.exports=[31863,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=c80d1_%28heros%29_heros_%28scourge-agility%29_scourge-agility_%28weaver%29_layout_tsx_3a116c2e._.js.map

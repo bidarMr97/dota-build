@@ -1,0 +1,3 @@
+module.exports=[60977,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=7338d_%28sentinel-intelligence%29_sentinel-intelligence_%28crystal%29_layout_tsx_16276ab8._.js.map

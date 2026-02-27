@@ -1,0 +1,3 @@
+module.exports=[4950,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=src_app_%28items%29_items_%28gryla%29_gryla_%28slippers%29_layout_tsx_842a7c16._.js.map

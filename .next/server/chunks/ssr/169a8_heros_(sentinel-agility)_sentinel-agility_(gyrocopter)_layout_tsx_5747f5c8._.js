@@ -1,0 +1,3 @@
+module.exports=[52788,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=169a8_heros_%28sentinel-agility%29_sentinel-agility_%28gyrocopter%29_layout_tsx_5747f5c8._.js.map

@@ -1,0 +1,3 @@
+module.exports=[24576,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",dir:"rtl",children:(0,b.jsxs)("body",{children:[(0,b.jsx)("img",{src:"/images/war.jpg",alt:"warcraft",className:"absolute fixed -z-10 h-full w-full object-cover blur-[3px]"}),a]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=169a8_heros_%28sentinel-intelligence%29_sentinel-intelligence_%28ogre%29_layout_tsx_0a72ef28._.js.map
